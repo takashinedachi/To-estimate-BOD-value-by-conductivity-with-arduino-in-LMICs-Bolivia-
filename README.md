@@ -1,0 +1,1 @@
+# To-estimate-BOD-value-by-conductivity-with-arduino-in-LMICs-Bolivia-
